@@ -104,3 +104,4 @@ while event_queue: # it runs as long as there is an event in the list
         student1.handle_appointment_confirmation(event)
 
     
+    
