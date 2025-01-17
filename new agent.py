@@ -10,5 +10,5 @@ class UniversityAdmissionsAgent:
     def process_applications(self):
         for student in self.applications:
             print(f"Processing application for {student.name}")
-            # Başvuru sürecini simüle edin (örneğin, kabul/red kararı)
-            student.application_status = "Accepted"  # veya "Rejected"
+        
+            student.application_status = "Accepted" 
